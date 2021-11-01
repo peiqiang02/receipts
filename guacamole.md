@@ -1,2 +1,4 @@
 # Ingredients
+- lemon
+- salt
 # Instructions
