@@ -2,4 +2,5 @@
 - avocado
 - lime
 - salt
+price:
 # Instructions
